@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.img1 {
+    background: url("sprite.png");
+    width: 483px;
+    height: 684px;
+}
+
+.img2 {
+    background: url("sprite.png");
+    width: 908px;
+    margin-left: -508px;
+    height: 479px;
+}
+
